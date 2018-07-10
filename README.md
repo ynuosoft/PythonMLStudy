@@ -5,6 +5,8 @@ Python机器学习实战入门，演示代码
 代码编写环境基于Jupyter；
 代码安装包基于Anaconda2-4.x
 
+在线视频：https://www.cctalk.com/m/group/82815309
+
 
 机器学习大纲图：
 
